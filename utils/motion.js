@@ -86,6 +86,7 @@ export const textVariant2 = {
     },
   },
 };
+// 
 
 export const fadeIn = (direction, type, delay, duration) => ({
   hidden: {

@@ -20,7 +20,6 @@ const GetStarted = () => (
     >
 
 
-
       {/* Image */}
 
       <motion.div
@@ -37,9 +36,6 @@ const GetStarted = () => (
       </motion.div>
 
 
-
-
-
       {/* Text */}
 
       <motion.div
@@ -49,7 +45,6 @@ const GetStarted = () => (
 
         <TypingText title="| How Metavurses Works" />
         <TitleText title={<>Get Started With Just A Few Clicks</>} />
-
 
 
       {/* Features */}
